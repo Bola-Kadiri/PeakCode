@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PeakCode/static/css/main.ae3e9a55.chunk.css",
+    "main.js": "/PeakCode/static/js/main.3770affd.chunk.js",
+    "main.js.map": "/PeakCode/static/js/main.3770affd.chunk.js.map",
+    "runtime-main.js": "/PeakCode/static/js/runtime-main.f7b85316.js",
+    "runtime-main.js.map": "/PeakCode/static/js/runtime-main.f7b85316.js.map",
+    "static/js/2.69cf2afd.chunk.js": "/PeakCode/static/js/2.69cf2afd.chunk.js",
+    "static/js/2.69cf2afd.chunk.js.map": "/PeakCode/static/js/2.69cf2afd.chunk.js.map",
+    "index.html": "/PeakCode/index.html",
+    "static/css/main.ae3e9a55.chunk.css.map": "/PeakCode/static/css/main.ae3e9a55.chunk.css.map",
+    "static/js/2.69cf2afd.chunk.js.LICENSE.txt": "/PeakCode/static/js/2.69cf2afd.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/PeakCode/static/media/bg-2.555fadee.png",
+    "static/media/bg-5.37b7a63e.jpg": "/PeakCode/static/media/bg-5.37b7a63e.jpg",
+    "static/media/css.38845b25.png": "/PeakCode/static/media/css.38845b25.png",
+    "static/media/js.ae3d5265.png": "/PeakCode/static/media/js.ae3d5265.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7b85316.js",
+    "static/js/2.69cf2afd.chunk.js",
+    "static/css/main.ae3e9a55.chunk.css",
+    "static/js/main.3770affd.chunk.js"
+  ]
+}
